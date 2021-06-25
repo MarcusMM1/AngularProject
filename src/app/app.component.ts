@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularProject';
+  textToChange = 'Text to change';
+  hobbyArray = ["I like to ride bikes "," I like to watch cartoons and anime ","I love playing sports "];
 }
